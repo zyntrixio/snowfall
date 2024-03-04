@@ -6,7 +6,7 @@ authors = ["Chris Mitchell <cmitchell@bink.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 prefect = "^2.16.1"
 prefect-dbt = "^0.4.1"
 prefect-snowflake = "^0.27.3"
